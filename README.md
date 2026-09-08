@@ -12,8 +12,10 @@ Mahasiswa Teknik Informatika yang berfokus pada pengembangan Game, Software Engi
 ---
 
 ### 📊 GitHub Stats
-![Zidane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZidaneNaufal1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZidaneNaufal1&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZidaneNaufal1&show_icons=true&theme=tokyonight&hide_border=true" alt="Zidane Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZidaneNaufal1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</p>
 
 ---
 *Dokumentasi progres belajar dan pengembangan proyek.*
