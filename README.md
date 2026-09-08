@@ -63,14 +63,9 @@
 
 ### 📊 Statistik & Aktivitas GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZidaneNaufal1&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=ZidaneNaufal1&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Langs" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://ashutoshhathidara.com/github-readme-activity-graph/graph?username=ZidaneNaufal1&theme=tokyo-night&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZidaneNaufal1&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="60%" />
+</div>
 
 ---
 
