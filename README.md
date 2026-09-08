@@ -1,34 +1,79 @@
-# Halo, Saya Muhammad Zidane Naufal Azzam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/media/handshake.gif" width="35px">
+<div align="center">
 
-<p align="left">
+  <!-- Header Waving SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=180&section=header&text=Muhammad%20Zidane%20Naufal%20A.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+  <!-- Typing Animation -->
   <a href="https://github.com/ZidaneNaufal1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&width=435&lines=Informatics+Engineering+Student;Unity+Game+Developer;Software+%26+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Unity+Game+Developer;C%23+%26+Python+Developer;Software+%26+ML+Enthusiast" alt="Typing SVG" />
   </a>
-</p>
+
+  <p align="center">
+    <i>Passionate in interactive software engineering, game mechanics development, and continuous learning.</i>
+  </p>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Game Dev:**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-**Tools & Environment:**  
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Tentang Saya
+- 🎓 **Fokus Studi:** Teknik Informatika.
+- 🎮 **Minat Utama:** Game Development (Unity & C#), Software Engineering, dan Machine Learning.
+- 🔭 **Proyek Berjalan:** Mengembangkan prototipe game interaktif dan sistem AI/logika modular.
+- ⚡ **Tujuan:** Membangun solusi perangkat lunak yang scalable, terstruktur, dan bermanfaat bagi ekosistem open-source.
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZidaneNaufal1&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+### 🛠️ Keahlian & Teknologi
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />
+      <br><sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity" />
+      <br><sub><b>Unity</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+      <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+      <br><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 📊 Statistik & Aktivitas GitHub
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22c55e,3b82f6&height=80&section=footer" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=ZidaneNaufal1&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidaneNaufal1&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Langs" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZidaneNaufal1&theme=tokyo-night&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=100&section=footer" width="100%"/>
+</div>
