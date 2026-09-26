@@ -1,74 +1,166 @@
 <div align="center">
 
-  <!-- Header Waving SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=180&section=header&text=Muhammad%20Zidane%20Naufal%20A.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <!-- Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0ea5e9,100:2563eb&height=190&section=header&text=ZimuruTempest&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
   <!-- Typing Animation -->
   <a href="https://github.com/ZidaneNaufal1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Unity+Game+Developer;C%23+%26+Python+Developer;Software+%26+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Unity+Game+Developer;C%23+%26+Python+Developer;Software+%26+ML+Enthusiast;Learning+%E2%86%92+Building+%E2%86%92+Evolving" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <i>Passionate in interactive software engineering, game mechanics development, and continuous learning.</i>
+  <p>
+    <i>Building software, games, and intelligent systems while continuously evolving my skills.</i>
   </p>
 
 </div>
 
 ---
 
-### 🚀 Tentang Saya
-- 🎓 **Fokus Studi:** Teknik Informatika.
-- 🎮 **Minat Utama:** Game Development (Unity & C#), Software Engineering, dan Machine Learning.
-- 🔭 **Proyek Berjalan:** Mengembangkan prototipe game interaktif dan sistem AI/logika modular.
-- ⚡ **Tujuan:** Membangun solusi perangkat lunak yang scalable, terstruktur, dan bermanfaat bagi ekosistem open-source.
+## 🌀 About Me
+
+Hi! I'm **Muhammad Zidane Naufal**, an Informatics Engineering student with a strong interest in software development, game development, and machine learning.
+
+I enjoy turning ideas into working software, experimenting with new technologies, and documenting what I learn along the way.
+
+My current focus is on:
+
+- 🎮 Game Development with Unity & C#
+- 💻 Software Development
+- 🐍 Python Programming
+- 🤖 Machine Learning & AI
+- 🗄️ Database & SQL
+- 🔧 Git & GitHub
+
+> **Learn → Build → Document → Improve**
 
 ---
 
-### 🛠️ Keahlian & Teknologi
+## ⚔️ Skill Acquisition
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45"/>
       <br><sub><b>C#</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=unity" width="45" height="45"/>
       <br><sub><b>Unity</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=py" width="45" height="45"/>
       <br><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/>
       <br><sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
       <br><sub><b>Git</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
       <br><sub><b>GitHub</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
       <br><sub><b>VS Code</b></sub>
     </td>
   </tr>
 </table>
- 
+
 ---
 
-### 📊 Statistik & Aktivitas GitHub
+## 📜 Current Quests
+
+- [x] Build and publish software projects
+- [x] Develop Unity & C# projects
+- [x] Learn Git & GitHub workflows
+- [x] Start documenting technical knowledge
+- [ ] Expand GitHub portfolio to **50 repositories**
+- [ ] Build larger software projects
+- [ ] Develop AI-powered applications
+- [ ] Build a personal desktop voice assistant
+- [ ] Continue improving software engineering skills
+
+---
+
+## ⭐ Featured Projects
+
+### 🎮 Vague Echoes: Lost in the Mist
+
+A third-person horror exploration game developed with **Unity and C#**.
+
+> More documentation, screenshots, and gameplay information will be added as the project is further polished.
+
+---
+
+### 📚 Developer Notes
+
+A personal learning hub containing technical notes, programming concepts, experiments, and lessons learned throughout my software development journey.
+
+**Topics include:**
+
+- Git & GitHub
+- Python
+- C#
+- Unity
+- Machine Learning
+- Database & SQL
+- Web Development
+- Algorithms
+
+---
+
+## 🤖 Future Evolution
+
+One of my upcoming projects is a **PC-based AI voice assistant** inspired by fictional intelligent assistants such as **Great Sage / Ciel** and JARVIS.
+
+The project is planned to explore:
+
+- 🎙️ Speech Recognition
+- 🧠 Conversational AI
+- 🔊 Text-to-Speech
+- 💻 Desktop Automation
+- 🧩 Tool & Plugin Systems
+- 🧠 Context & Memory
+- 🖥️ Desktop Interface
+
+> **A personal AI assistant that evolves together with its developer.**
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZidaneNaufal1&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="60%" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ZidaneNaufal1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidaneNaufal1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%" />
+
+</div>
+
+---
+
+## 🧭 Current Objective
+
+> **Build real projects. Learn continuously. Document the journey.**
+
+My GitHub is a record of that evolution.
+
+<div align="center">
+
+### 🌀 ZimuruTempest
+
+**Learn → Build → Evolve**
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=100&section=footer" width="100%"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0ea5e9,100:22c55e&height=110&section=footer" width="100%"/>
+
 </div>
