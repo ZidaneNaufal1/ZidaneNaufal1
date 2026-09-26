@@ -5,7 +5,7 @@
 
   <!-- Typing Animation -->
   <a href="https://github.com/ZidaneNaufal1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Unity+Game+Developer;C%23+%26+Python+Developer;Software+%26+ML+Enthusiast;Learning+%E2%86%92+Building+%E2%86%92+Evolving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Unity+Game+Developer;C%23+%26+Python+Developer;Software+%26+ML+Enthusiast;Learning+%E2%86%92+Building+%E2%86%92+Evolving" alt="Typing Animation" />
   </a>
 
   <p>
@@ -22,7 +22,7 @@ Hi! I'm **Muhammad Zidane Naufal**, an Informatics Engineering student with a st
 
 I enjoy turning ideas into working software, experimenting with new technologies, and documenting what I learn along the way.
 
-My current focus is on:
+### Current Focus
 
 - 🎮 Game Development with Unity & C#
 - 💻 Software Development
@@ -40,31 +40,37 @@ My current focus is on:
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45"/>
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/>
       <br><sub><b>C#</b></sub>
     </td>
+
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=unity" width="45" height="45"/>
+      <img src="https://skillicons.dev/icons?i=unity" width="45" height="45" alt="Unity"/>
       <br><sub><b>Unity</b></sub>
     </td>
+
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=py" width="45" height="45"/>
+      <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python"/>
       <br><sub><b>Python</b></sub>
     </td>
+
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/>
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
       <br><sub><b>MySQL</b></sub>
     </td>
+
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
       <br><sub><b>Git</b></sub>
     </td>
+
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
       <br><sub><b>GitHub</b></sub>
     </td>
+
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
       <br><sub><b>VS Code</b></sub>
     </td>
   </tr>
@@ -92,7 +98,9 @@ My current focus is on:
 
 A third-person horror exploration game developed with **Unity and C#**.
 
-> More documentation, screenshots, and gameplay information will be added as the project is further polished.
+The project focuses on exploration, environmental atmosphere, interaction systems, clues, and gameplay progression.
+
+> More screenshots, gameplay footage, and technical documentation will be added as the project is further polished.
 
 ---
 
@@ -117,7 +125,7 @@ A personal learning hub containing technical notes, programming concepts, experi
 
 One of my upcoming projects is a **PC-based AI voice assistant** inspired by fictional intelligent assistants such as **Great Sage / Ciel** and JARVIS.
 
-The project is planned to explore:
+The project will explore:
 
 - 🎙️ Speech Recognition
 - 🧠 Conversational AI
@@ -128,18 +136,6 @@ The project is planned to explore:
 - 🖥️ Desktop Interface
 
 > **A personal AI assistant that evolves together with its developer.**
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ZidaneNaufal1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidaneNaufal1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%" />
-
-</div>
 
 ---
 
