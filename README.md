@@ -66,8 +66,8 @@ I like experimenting with new technologies, breaking things to understand them, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZidaneNaufal1&show_icons=true&hide_border=true&theme=transparent&title_color=22c55e&icon_color=0ea5e9&text_color=94a3b8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidaneNaufal1&layout=compact&hide_border=true&theme=transparent&title_color=22c55e&text_color=94a3b8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZidaneNaufal1&show_icons=true&hide_border=true&theme=transparent&title_color=22c55e&icon_color=0ea5e9&text_color=94a3b8&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidaneNaufal1&layout=compact&hide_border=true&theme=transparent&title_color=22c55e&text_color=94a3b8&cache_seconds=1800" />
 </div>
 
 <div align="center">
